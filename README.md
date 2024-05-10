@@ -19,8 +19,8 @@ extra_gated_fields:
   Website: text
 ---
 
-Using this open-source pipeline in production?  
-Make the most of it thanks to our [consulting services](https://herve.niderb.fr/consulting.html).
+Using this open-source model in production?  
+Consider switching to [pyannoteAI](https://www.pyannote.ai) for better and faster options.
 
 # 🎹 Speaker diarization 3.1
 
